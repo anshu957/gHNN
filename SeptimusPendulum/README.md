@@ -1,0 +1,1 @@
+## Generalized Hamiltonian Neural Networks
