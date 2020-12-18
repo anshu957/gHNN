@@ -1,0 +1,3 @@
+*.nb
+*.vscode
+**/__pychache__/
